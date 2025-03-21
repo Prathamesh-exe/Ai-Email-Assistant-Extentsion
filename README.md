@@ -24,11 +24,23 @@ The **Smart AI Email Assistant** is a Chrome extension that helps users generate
 
 ## Example Usage  
 
-![Screenshot 2025-03-21 193729](https://github.com/user-attachments/assets/99331053-9d6d-4fe8-9e93-1c0711d8044b)
+![AI Email Assistant Screenshot](https://github.com/user-attachments/assets/99331053-9d6d-4fe8-9e93-1c0711d8044b)
 
 ### User Scenario  
 - The user receives an email:  
   **"hi how are you?"**  
 - The user clicks the **"AI Reply"** button.  
-- The AI Assistant suggests the following response:  
+- The AI Assistant suggests the following response:
+- Hi [Sender's Name],
+I'm doing well, thank you! How about you? Hope everything is going great on your end.
+Best,
+[Your Name]
+- The user can **modify the response** or **send it directly**.  
+
+## Results  
+The Smart AI Email Assistant significantly enhances email productivity by:  
+✅ Reducing response time for emails.  
+✅ Improving the quality of replies with AI-powered suggestions.  
+✅ Providing a seamless and user-friendly experience directly within Gmail.  
+
 
